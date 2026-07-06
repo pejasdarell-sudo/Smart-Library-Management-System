@@ -11,4 +11,12 @@ Project Modules
 Development Team
 Student Name: Pejas, Darell Jake B.
 Course: Bachelor of Science in Information Technology (BSIT)
-Section: BA - 2C 
+Section: BA - 2C
+
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
