@@ -10,6 +10,7 @@ Project Modules
 - Inventory Management
 - Reports
 - User Accounts
+- Book Reservation
 
   main
 
